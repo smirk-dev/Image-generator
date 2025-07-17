@@ -46,7 +46,3 @@ You can deploy this to:
 - OpenAI API (DALL·E)
 - Streamlit
 - Pillow (for image processing)
-
-## 📜 License
-
-MIT License
