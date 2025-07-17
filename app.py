@@ -6,7 +6,7 @@ from openai import OpenAI
 #run using python -m streamlit run app.py
 # Install the required packages if not already installed
 # Use your OpenAI API key
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="")
 
 def generate_image(prompt, size="512x512"):
     try:
